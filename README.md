@@ -1,10 +1,11 @@
 <!-- Banner -->
-<h1 align="center">Hi, I'm Maikel Espitia 👋</h1>
+
+<h1 align="center">Hi, I'm Maikel 👋</h1>
 
 <p align="center">
-  <b>🔭 I’m currently working on IA model integration projects with React, Next.js, and Node</b><br>
-  <b>🌱 I’m currently learning AWS, Next.js, PostgreSQL, Python</b><br>
-  <b>👯 I’m looking to collaborate on React and Node projects with IA integration</b>
+  <b>🚀 Diving deep into AI model projects with React, Next.js, and Node right now!</b><br>
+  <b>🌱 I’m currently learning AWS, Next.js, PostgreSQL, and Python</b><br>
+  <b>🤝 Ready to collaborate on cool React and Node projects, especially if there's some AI involved!</b>
 </p>
 
 ---
