@@ -29,6 +29,7 @@
 ---
 
 ### ✍️ Latest Article
+- [How to Integrate AI Models with Node.js Using Genkit](https://maikelev.com/articles/ai-model-integration-nodejs-genkit)
 
 - [Discriminated Unions in TypeScript](https://maikelev.com/articles/discriminated-union)
 
